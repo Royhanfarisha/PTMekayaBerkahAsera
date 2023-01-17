@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Montserrat:wght@300;700&family=Poppins&display=swap');
+
+
+.body {
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.carousel-item-active{
+    padding-left: 10px;
+}
+
+.text-center{
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.carousel-inner {
+    padding-top: 100px;
+    
+}
+
+.col {
+    padding-top: 100px;
+}
+
+.img {
+    min-height: 800px;
+    min-width: 400px;
+}
+
+.text {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-bottom: 3rem;
+    color: #fff;
+
+}
+
+.text1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding-bottom: 3rem;
+    color: #41aef7;
+
+}
+
+.text-title {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+
+.col-lg-4 {
+    padding-bottom: 3rem;
+}
+
+
+
+.beli {
+    background: rgb(110, 110, 138);
+
+}
+
+.card {
+    background-color: rgb(218, 214, 214);
+    position: relative;
+}
+
+.card:hover {
+    padding: 10px;
+    border: 1px ;
+    transition: 1s;
+ }
+
+.btn:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.tentang {
+    background: #0099ff;
+    opacity: 0.4;
+    position: relative;
+    color: black;
+}
+
+.kontak {
+    background: #0099ff;
+    opacity: 0.4;
+    position: relative;
+}
+
+.jalan {
+    margin-bottom: 50px;
+}
+
+.footer {
+    font-weight: 600;
+}
