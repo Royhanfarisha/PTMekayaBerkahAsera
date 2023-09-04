@@ -7,6 +7,11 @@
     font-family: 'Poppins', sans-serif;
 }
 
+.collapse .navbar-nav .nav-item:hover {
+    background-color: rgb(8, 184, 243);
+    border-radius: 5px;
+}
+
 .carousel-item-active{
     padding-left: 10px;
 }
